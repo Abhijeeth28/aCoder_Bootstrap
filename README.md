@@ -1,2 +1,2 @@
-# aCoder_bootstrap_project
+# aCoder_bootstrap
 This is a basic Bootstrap project
